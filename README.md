@@ -1,4 +1,4 @@
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000000F7&size=25&&center=true&vCenter=true&width=650&lines=Olá!+👋+Me+chamo+Brenda+Assunção.;+Sejam+bem+vindos+ao+meu+perfil!;+Sou+formada+em+Ciência+da+Computação.;+Atualmente+atuo+como+desenvolvedora+Back-End.)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000000F7&size=25&&center=true&vCenter=true&width=660&lines=Olá!+👋+Me+chamo+Brenda+Assunção.;+Sejam+bem+vindos+ao+meu+perfil!;+Sou+formada+em+Ciência+da+Computação.;+Atualmente+atuo+como+desenvolvedora+Back-End.)](https://git.io/typing-svg)
  <div>
   <a href="https://github.com/brenda-programmer">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brenda-programmer&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
